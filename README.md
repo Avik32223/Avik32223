@@ -16,9 +16,9 @@ I am certain there are still so many things I don't know that I don't know.
   - [ ] Replicated Database 
 
 ### Wanna chat?
-👉🏽 DM or @ on [Twitter](https://twitter.com/Avik32223). Things that I am interest 😬 to talk about
+👉🏽 DM or @ on [Twitter](https://twitter.com/Avik32223). Things that I am interested to talk about 😬
  - Distributed systems
  - PC and Playstation Games
  - Building a gaming PC
  - Frontend development
- - Anything not political 🙈
+ - Anything that's not political 🙈
