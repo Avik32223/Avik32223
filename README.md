@@ -12,8 +12,8 @@ I am certain there are still so many things I don't know that I don't know.
   Pick up the habit of reading books and learn a new language. I plan to grok through a lot of technical articles and implement a few things. 
   Things that are on top of my list right now
   - [ ] Write more blogposts
-  - [ ] Leader election
-  - [ ] Replicated Database 
+  - [x] Leader election
+  - [x] Replicated Database 
 
 ### Wanna chat?
 👉🏽 DM or @ on [Twitter](https://twitter.com/Avik32223). Things that I am interested to talk about 😬
